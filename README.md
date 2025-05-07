@@ -24,7 +24,7 @@ Esse projeto é uma atividade de POO de cadastro de alunos, podendo registrá-lo
 ## 💡 Como Usar:
 1. **Execute no seu terminal:**
    ```bash
-   python main.py
-Você vai notar que vai ter um menu intuitivo para cada funcionalidade.
+    python main.py
+Você irá notar que vai ter um menu intuitivo para cada funcionalidade.
 ## 🔍 Observações:
  O sistema não está totalmente pronto, então sinta-se a vontade para fazer um fork para contribuir.
