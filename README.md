@@ -21,7 +21,7 @@ Esse projeto é uma atividade de POO de cadastro de alunos, podendo registrá-lo
 3. **Instale a dependência necessária:**
    ```bash
    pip install questionary
-## ▶️ Como Usar:
+## 💡 Como Usar:
 1. **Execute no seu terminal:**
    ```bash
    python main.py
