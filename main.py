@@ -143,5 +143,3 @@ while True:
     elif acao == "6. Sair":
         print("Saindo do sistema...")
         break
-    else:
-        print("Opção inválida.")
