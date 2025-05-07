@@ -1,10 +1,10 @@
 # Sistema de Gerenciamento de Alunos
 
-##📚 Descrição:
+## 📚 Descrição:
 
 Esse projeto é uma atividade de POO de cadastro de alunos, podendo registrá-los com nome, matrícula e curso. Além de ter funcionalidades como registrar suas notas nas matérias de cada curso, exibir seu boletim e salvar todos os dados em um arquivo json.
 
-## 📦 Requisitos
+## 📦 Requisitos:
 
 - **Python 3.10 ou superior**
 - **pip** (gerenciador de pacotes do Python)
