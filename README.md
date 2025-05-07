@@ -22,6 +22,6 @@ Esse projeto é uma atividade de POO de cadastro de alunos, podendo registrá-lo
    ```bash
    pip install questionary
 **▶️ Como Usar**
-1.**Execute no seu terminal:**
-  ```bash
+1. **Execute no seu terminal:**
+   ```bash
    python main.py
