@@ -134,7 +134,7 @@ while True:
                 print("---"*15)
 
     elif acao == "5. Salvar dados":
-        nome_arquivo = input("Digite o nome do arquivo (com .json no final): ")
+        nome_arquivo = input("Digite o nome do arquivo que vc irá criar (com .json no final): ")
         alunos_serializaveis = [aluno.__dict__ for aluno in alunos]
 
         with open(nome_arquivo, "w", encoding="utf-8") as arquivo:
